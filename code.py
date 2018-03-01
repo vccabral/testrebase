@@ -1,7 +1,7 @@
 
 
 def say(words):
-	print("the words are: "+words)
+	print(words)
 
 def hello_world():
 	print("hello world")
